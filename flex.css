@@ -1,0 +1,9 @@
+*{margin:0;
+padding:0;
+font-family:cursive;
+border-box;}
+.container{width:200px;height:auto;display:flex;
+}
+.flex-box{width:100px;padding:100px; border:solid;
+background-color:red;color:white;
+font-size:20px;text-align:center;border-radius:20px; margin:50px;padding:50px;}
